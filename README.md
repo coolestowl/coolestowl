@@ -5,10 +5,10 @@
 </picture>
 
 - 👋 Hi, I’m @coolestowl
-- 👀 I’m interested in Rust
-- 🌱 I’m currently learning K8s, Rancher, Rust
-- 💞️ I’m looking to collaborate on nothing 😂
-- 📫 How to reach me ...
+- 👀 I’m interested in Web3, Crypto, Golang, Rust, Solidity
+- 🌱 I’m currently learning AgentFi, RWA
+- 💞️ I’m looking to collaborate on RWA and AgentFi 😂
+- 📫 How to reach me, of course by email.
 - ✨ GitHub is so cool !
 
 <!---
